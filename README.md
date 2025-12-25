@@ -108,7 +108,11 @@ function showSecret() {
 To someone who became a memory worth keeping.
 </p>
 
-
+<div class="gallery">
+  <img src="pics/img1.jpg">
+  <img src="pics/img2.jpg">
+  <img src="pics/img3.jpg">
+  <img src="pics/img4.jpg">
 </div>
 
 <div class="section">
